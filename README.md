@@ -1,7 +1,9 @@
 # Windows Security Details 
 
 **List of Data Collected**
-Data is collected from Get-MPComputerStatus ps command
+
+Data is collected from `Get-MPComputerStatus` ps command
+
 * AMEngineVersion
 * AMProductVersion
 * AMRunningMode
