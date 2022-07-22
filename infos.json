@@ -1,0 +1,13 @@
+{
+"displayName" : "Windows Security Details",
+"author" : ["Bálint FÜZI"],
+"contributor" : [],
+"supportedAgent" : ["Windows"],
+"version" : "1.0",
+"licence" : "GPLv3",
+"description" : 
+    {
+        "fr" : "Détails de sécurité des clients Windows",
+        "en" : "Security details of Windows Clients"
+    }
+}

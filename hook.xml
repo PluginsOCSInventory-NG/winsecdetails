@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hookstore>
+    <hook type="lang">
+        <value>en_GB</value>
+    </hook>
+    <hook type="cdentry">
+        <identifier>cd_winsecdetails</identifier>
+        <translation>57420</translation>
+        <category>admin</category>
+        <available>winsecdetails</available>
+    </hook>
+</hookstore>
